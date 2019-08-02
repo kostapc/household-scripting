@@ -1,4 +1,4 @@
-﻿// http://web.archive.org/web/20160201231836/http://powershell.com/cs/blogs/tobias/archive/2011/01/07/organizing-videos-and-music.aspx
+# http://web.archive.org/web/20160201231836/http://powershell.com/cs/blogs/tobias/archive/2011/01/07/organizing-videos-and-music.aspx
 
 $path = 'c:\tmp\some_pic_from_camera.jpg'
 
